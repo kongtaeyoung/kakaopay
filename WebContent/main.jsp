@@ -41,7 +41,7 @@
 			
 			jQuery.ajax({
 				async : false, 
-				url : '/kakaopay/ShorteningService.jsp',
+				url : '/kakaopay/shorteningService.jsp',
 				type : 'POST',
 				dataType : 'json',
 				data : {
