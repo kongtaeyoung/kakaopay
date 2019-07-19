@@ -30,11 +30,12 @@
  : TOMCAT8 이상
  
 - 테스트 방법
- 1-1) 입력 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
- 1-2) shortening URL 확인 : http://localhost/XXXXXXXX   
- 
- 2-1) shortening URL 입력 : http://localhost/XXXXXXXX
- 2-2) 실 URL 확인 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
- 
- 3-1) 1-1번과 동일한 URL 입력 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
- 3-2) 1-2번과 동일한 shortening URL 확인 : http://localhost/XXXXXXXX
+ 1.
+ 	입력 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
+ 	shortening URL 확인 : http://localhost/XXXXXXXX   
+ 2. 
+ 	shortening URL 입력 : http://localhost/XXXXXXXX
+ 	실 URL 확인 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
+ 3.
+ 	1-1번과 동일한 URL 입력 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
+ 	1-2번과 동일한 shortening URL 확인 : http://localhost/XXXXXXXX
