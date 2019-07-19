@@ -61,7 +61,7 @@
 </head>
 <body>
 	<div class="center">
-		<div><input type="text" id="url" value="https://en.wikipedia.org/wiki/URL_shortening"><span id="urlConversion" >변환</span></div>
+		<div><input type="text" id="url" value="https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400"><span id="urlConversion" >변환</span></div>
 		<div id="result"></div>
 	</div>
 </body>

@@ -9,7 +9,7 @@
 
 # 프로젝트 소개
 - URL을 입력 받아, 특정 도메인(http://localhost/)에 8자리 문자를 붙여 결과 출력
-  	예) https://en.wikipedia.org/wiki/URL_shortening => http://localhost/JZfOQNro
+  	예) https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400 => http://localhost/XXXXXXXX
 
 - URL 입력 후  : URL이 생성된 이력이 있을 경우, 기존에 생성한 URL 데이터 재 출력
 	        : URL이 생성된 이력이 없은 경우, 신규 생성 URL 데이터 출력
