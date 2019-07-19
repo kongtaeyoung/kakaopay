@@ -37,5 +37,5 @@
  	- shortening URL 입력 : http://localhost/XXXXXXXX
  	- 실 URL 확인 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
  3.
- 	- 1-1번과 동일한 URL 입력 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
- 	- 1-2번과 동일한 shortening URL 확인 : http://localhost/XXXXXXXX
+ 	- 1번과 동일한 URL 입력 : https://kakaopay.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3400
+ 	- 1번과 동일한 shortening URL 확인 : http://localhost/XXXXXXXX
