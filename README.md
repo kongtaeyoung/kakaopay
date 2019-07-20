@@ -26,8 +26,8 @@
 
 # Unit Test 
 - 테스트 환경 
- : JDK1.8
- : TOMCAT8 이상
+	- JDK1.8
+	- TOMCAT8 
  
 - 테스트 방법
  1.
