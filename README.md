@@ -23,6 +23,7 @@
 # 프로젝트 빌드와 실행 방법
 - WEB-PROJECT 생성 후 , "# 디렉토리 구조" 명시 된 것 과 동일하게 폴더/파일 추가
 - WEB-PROJECT 와 TOMCAT 연동 후 , TOMCAT 실행
+- 접속 URL : http://localhost:8080/WEB-PROJECT NAME/main.jsp
 
 # Unit Test 
 - 테스트 환경 
